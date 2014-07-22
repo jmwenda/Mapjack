@@ -1,0 +1,4 @@
+Mapjack
+=======
+
+Democratizing mapping contributions
